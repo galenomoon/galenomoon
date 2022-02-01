@@ -16,8 +16,9 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode"/>
 
-<a href='https://github.com/galenomoon'> <img width="400px" align='left' src="https://github-readme-stats.vercel.app/api?username=galenomoon&theme=dracula&show_icons=true"/></a>
-<br></br>
+<a href='https://github.com/galenomoon'> <img width="400px" align='left' src="https://github-readme-stats.vercel.app/api?username=galenomoon&theme=dracula&show_icons=true" margin-bottom="10px" /></a>
+
+
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=galenomoon&hide=dracula&layout=compact&theme=default&custom_title=Linguagem Usadas com Frequencia' width='400' align='left'/>
 
 
