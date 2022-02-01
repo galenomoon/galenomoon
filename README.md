@@ -11,21 +11,18 @@
 <img height="50"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/>
 <img height="50"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/>
 <img height="50"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/>
-<!-- <img height="50"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/> -->
 <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/>
 </div>
 
-
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode"/>
 
-
-<a href='https://github.com/viniciusnovais74'><img width="400px" align='left' src="https://github-readme-stats.vercel.app/api?username=viniciusnovais74&theme=dracula&show_icons=true"/></a>
-
-
-
+<a href='https://github.com/galenomoon'> <img width="400px" align='left' src="https://github-readme-stats.vercel.app/api?username=galenomoon&theme=dracula&show_icons=true"/></a>
+<br></br>
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=galenomoon&hide=dracula&layout=compact&theme=default&custom_title=Linguagem Usadas com Frequencia' width='400' align='left'/>
 
 
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusnovais74&hide=dracula&layout=compact&theme=default&custom_title=Linguagem Usadas com Frequencia' width='400' align='left'/>
+
+
 
 
 
