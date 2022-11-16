@@ -18,12 +18,8 @@
   
   <hr/>
 </div>
-
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=galenomoon&show_icons=true&theme=radical)](https://github.com/galenomoon/github-readme-stats)
   
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"  min-width="400px"  max-width="400px"  width="400px" align="right"  alt="Computador iuriCode" />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galenomoon&layout=compact&theme=radical)](https://github.com/galenomoon/github-readme-stats)
 
 <hr/>
 
