@@ -7,7 +7,31 @@
 [![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)](https://music.youtube.com/channel/UClAUuWpWgpos4MHuvO6WycQ?feature=share)
 <hr/>
 
-  
-
-
-
+```javascript
+export const AboutMe = {
+    developer_type: 'Full-Stack',
+    code_in: [
+        React, Ruby
+    ],
+    frameworks_and_libs : [
+        ReactDOM, TailwindCSS, Styled-Components, 
+        Bootstrap, React-Native, Rails, SASS/SCSS
+    ],
+    databases: [
+        SQL, NoSQL  
+    ],
+    tools: [
+        Git, GitHub, Linux, Vscode, Figma
+    ],
+    learning: [
+        Python
+    ],
+    colleges: [
+        {
+            id: 1,
+            name: "Estacio de Sá',
+            course: "Information Systems"
+        }
+    ]
+}
+```
