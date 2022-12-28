@@ -14,8 +14,8 @@ export const AboutMe = {
         React, Ruby
     ],
     frameworks_and_libs : [
-        ReactDOM, TailwindCSS, Styled-Components, 
-        Bootstrap, React-Native, Rails, SASS/SCSS
+        ReactDOM, TailwindCSS, Styled_Components, 
+        Bootstrap, React_Native, Rails, SASS/SCSS
     ],
     databases: [
         SQL, NoSQL  
