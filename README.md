@@ -10,21 +10,22 @@
 ```javascript
 export const AboutMe = {
     developer_type: 'Full-Stack',
+    is_team_leader: true,
     code_in: [
-        React, Ruby
+        "React.js", "React Native", "Next.js", "Python", "Ruby"
     ],
     frameworks_and_libs : [
-        ReactDOM, TailwindCSS, Styled_Components, 
-        Bootstrap, React_Native, Rails, SASS/SCSS
+        "ReactDOM", "TailwindCSS", "Styled Components", 
+        "Bootstrap", "React Native", "Rails", "SASS/SCSS"
     ],
     databases: [
-        SQL, NoSQL  
+        "SQL", "NoSQL"  
     ],
     tools: [
-        Git, GitHub, Linux, Vscode, Figma
+        "Git", "GitHub", "Linux", "VScode", "Figma", "Google Colab"
     ],
     learning: [
-        Python
+        "Python", "TensorFlow"
     ],
     colleges: [
         {
