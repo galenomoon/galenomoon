@@ -11,6 +11,7 @@
 export const AboutMe = {
     developer_type: 'Full-Stack',
     is_team_leader: true,
+    languages: ["English", "Portuguese"],
     code_in: [
         "React.js", "React Native", "Next.js", "Python", "Ruby"
     ],
