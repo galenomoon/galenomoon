@@ -22,6 +22,9 @@ export const AboutMe = {
     databases: [
         "SQL", "NoSQL"  
     ],
+    deplying: [
+        "Heroku", "Vercel", "AWS"
+    ],
     tools: [
         "Git", "GitHub", "Linux", "VScode", "Figma", "Google Colab"
     ],
@@ -34,6 +37,10 @@ export const AboutMe = {
             name: "Estacio de Sá',
             course: "Information Systems"
         }
+    ],
+    skills: [
+        "Creativity", "Focus", "Team Leader", "Artistic Vision", 
+        "Hard Working", "Fast Learning", "Self Taught"
     ]
 }
 ```
