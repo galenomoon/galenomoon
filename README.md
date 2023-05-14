@@ -26,7 +26,7 @@ export const AboutMe = {
         "Git", "GitHub", "Linux", "VScode", "Figma", "Google Colab"
     ],
     learning: [
-        "Python", "TensorFlow"
+        "Python", "TensorFlow", Typescript
     ],
     colleges: [
         {
