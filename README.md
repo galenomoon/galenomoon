@@ -22,7 +22,7 @@ export const AboutMe = {
     databases: [
         "SQL", "NoSQL"  
     ],
-    deplying: [
+    deploy: [
         "Heroku", "Vercel", "AWS"
     ],
     tools: [
@@ -40,7 +40,7 @@ export const AboutMe = {
     ],
     skills: [
         "Creativity", "Focus", "Team Leader", "Artistic Vision", "Good Pratices",
-        "Hard Working", "Fast Learning", "Self Taught", "Clean Code"
+        "Hard Working", "Fast Learning", "Self Taught", "Clean Code", "UI/UX"
     ]
 }
 ```
