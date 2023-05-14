@@ -39,8 +39,8 @@ export const AboutMe = {
         }
     ],
     skills: [
-        "Creativity", "Focus", "Team Leader", "Artistic Vision", 
-        "Hard Working", "Fast Learning", "Self Taught"
+        "Creativity", "Focus", "Team Leader", "Artistic Vision", "Good Pratices",
+        "Hard Working", "Fast Learning", "Self Taught", "Clean Code"
     ]
 }
 ```
