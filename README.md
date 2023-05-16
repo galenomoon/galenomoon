@@ -34,7 +34,7 @@ export const AboutMe = {
     colleges: [
         {
             id: 1,
-            name: "Anhanguera"
+            name: "Anhanguera",
             course: "Software Engineer"
         },
         {
