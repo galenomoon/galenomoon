@@ -29,11 +29,16 @@ export const AboutMe = {
         "Git", "GitHub", "Linux", "VScode", "Figma", "Google Colab"
     ],
     learning: [
-        "Python", "TensorFlow", Typescript
+        "Python", "TensorFlow", "Typescript"
     ],
     colleges: [
         {
             id: 1,
+            name: "Anhanguera"
+            course: "Software Engineer"
+        },
+        {
+            id: 2,
             name: "Estacio de Sá',
             course: "Information Systems"
         }
