@@ -39,7 +39,7 @@ export const AboutMe = {
         },
         {
             id: 2,
-            name: "Estacio de Sá',
+            name: "Estacio de Sá",
             course: "Information Systems"
         }
     ],
