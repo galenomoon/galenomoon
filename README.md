@@ -64,9 +64,25 @@ Let's collaborate and create something extraordinary together! 🚀
 
 ## Projects and Achievements 🏆
 
-- Galenomoon Web Site: [Check my Portifolio!](https://www.galenomoon.com)
-- Life Cell: [Click here](https://www.lifecell.vercel.app/)
-- Obraminha: [Click Here](https://www.obraminha.com.br)
+#### 🌐  Web Portfolio
+Welcome to my web portfolio! Here, you'll find a collection of projects showcasing my skills as a web developer specializing in Next.js and Tailwind CSS. Explore my portfolio and discover the range of projects highlighting my creativity and technical expertise.
+
+Visit my portfolio: [Click Here!](https://www.galenomoon.com)
+
+Feel free to get in touch for collaborations or potential opportunities. Contact information is available on my portfolio website.
+
+Thank you for visiting, and I look forward to connecting with you!
+
+#### 🏠 Obraminha
+Obraminha is a successful freelancer project I've worked on with over 500 users. I handled the complete frontend development, showcasing my expertise in UI/UX design and frontend development.
+
+Learn more about Obraminha: [Click Here!](https://www.obraminha.com.br)
+
+#### 📱 Life Cell
+
+Life Cell is a project I created—a landing page designed to help my dad improve the sales of his Smartphone Maintenance course. This project allowed me to combine my skills in UI/UX design and frontend development to create an engaging and informative website.
+
+To learn more about Life Cell, please visit the website: [Click Here!](https://www.lifecell.vercel.app/)
 
 ## How to Reach Me 📫
 
