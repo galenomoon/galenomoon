@@ -18,13 +18,15 @@ I'm Guilherme Galeno, a self-taught developer with a focus on Full-Stack web dev
 - 🎯 Team Leader: Yes
 - 🌍 Languages: English, Portuguese
 
-### Artistic Vision 🎨✨🎵
+## Artistic Vision 🎨✨🎵
 
 As a creative individual with an artistic vision, I bring a unique perspective to my work. 🎨 I not only excel in web development but also have a passion for various art forms. I have written songs 🎵 and have experience as a designer, having worked on projects where I developed logos and completed UI/UX designs using Figma. 💡
 
 I believe that this artistic background gives me a keen eye for aesthetics and allows me to create visually stunning and engaging user interfaces. With my diverse skill set, I strive to create web applications that are not only functional but also visually appealing and memorable.
 
 Let's collaborate and create something extraordinary together! 🚀
+
+##
 
 ### Coding Languages and Frameworks
 
