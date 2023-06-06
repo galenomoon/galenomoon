@@ -62,17 +62,17 @@ Let's collaborate and create something extraordinary together! 🚀
 
 ## Projects and Achievements 🏆
 
-- My Portifolio: [galenomoon.com](https://www.galenomoon.com)
-- Life Cell: [lifecell.vercel.app](https://www.lifecell.vercel.app/)
-- Obraminha: [obraminha.com.br](https://www.obraminha.com.br)
+- Galenomoon Web Site: [Check my Portifolio!](https://www.galenomoon.com)
+- Life Cell: [Click here](https://www.lifecell.vercel.app/)
+- Obraminha: [Click Here](https://www.obraminha.com.br)
 
 ## How to Reach Me 📫
 
 If you have any questions, collaboration opportunities, or just want to connect, feel free to reach out to me through the following channels:
 
 - 📧 Email: galeno.dev@gmail.com
-- 💼 LinkedIn: [Your Name](https://www.linkedin.com/in/guilherme-galeno-sena)
-- 🌐 Website: [galenomoon.com](https://galenomoon.com)
+- 💼 LinkedIn: [Guilherme Galeno Sena](https://www.linkedin.com/in/guilherme-galeno-sena)
+- 🌐 Website: [Check my Portifolio!](https://www.galenomoon.com)
 
 I am always excited to connect with fellow developers and designers, so don't hesitate to get in touch!
 
