@@ -62,8 +62,8 @@ Let's collaborate and create something extraordinary together! 🚀
 
 ## Projects and Achievements 🏆
 
-- My Portifolio: [galenomoon.com](https://galenomoon.com)
-- Life Cell: [lifecell.vercel.app](https://lifecell.vercel.app/)
+- My Portifolio: [galenomoon.com](https://www.galenomoon.com)
+- Life Cell: [lifecell.vercel.app](https://www.lifecell.vercel.app/)
 - Obraminha: [obraminha.com.br](https://www.obraminha.com.br)
 
 ## How to Reach Me 📫
