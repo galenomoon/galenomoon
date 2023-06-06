@@ -16,7 +16,7 @@ I'm Guilherme Galeno, a self-taught developer specializing in Full-Stack web dev
 
 - 💻 Full-Stack Developer
 - 🎯 Team Leader
-- 🌍 Languages: English, Portuguese
+- 🌍 Languages: Portuguese and English
 
 ## Artistic Vision 🎨✨🎵
 
