@@ -66,12 +66,6 @@ Welcome to my web portfolio! Explore my range of projects showcasing my skills a
 
 Visit my portfolio: [Click Here!](https://www.galenomoon.com)
 
-#### Obraminha
-
-Obraminha is a successful freelance project with over 500 users. I handled the complete frontend development, showcasing my expertise in UI/UX design and frontend development.
-
-Learn more about Obraminha: [Click Here!](https://www.obraminha.com.br)
-
 #### Life Cell
 
 Life Cell is a project I created—a landing page designed to help my dad improve the sales of his Smartphone Maintenance course. This project allowed me to combine my skills in UI/UX design and frontend development to create an engaging and informative website.
