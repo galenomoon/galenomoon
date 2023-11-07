@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile! 👋
 
 <p align="center">
-  <img src="./banner.png" alt="Banner">
+  <img src="./banner2.png" alt="Banner">
 </p>
 
 ## Hello, I'm Guilherme Galeno! ✨
