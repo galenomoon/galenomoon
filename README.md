@@ -35,42 +35,12 @@ Let's collaborate and create something extraordinary together! 🚀
 - 💻 ReactDOM, Tailwind CSS, Styled Components, Bootstrap
 - 📱 React Native
 - 🚂 Rails
-- 🎨 SASS/SCSS
-
-## Databases
-
-- 🗄️ SQL, NoSQL
-
-## Deployment
-
-- 🌐 Heroku, Vercel, AWS
-
-## Tools
-
-- 🛠️ Git, GitHub, Linux, VScode, Figma, Google Colab
-
-## Learning
-
-- 📚 Python, TensorFlow, TypeScript
-
-## Education
-
-1. 🎓 Anhanguera - Software Engineering
-2. 🎓 Estacio de Sá - Information Systems
-
-## Projects and Achievements 🏆
 
 ### Web Portfolio
 
 Welcome to my web portfolio! Explore my range of projects showcasing my skills as a web developer specializing in Next.js and Tailwind CSS.
 
 Visit my portfolio: [Click Here!](https://www.galenomoon.com)
-
-#### Life Cell
-
-Life Cell is a project I created—a landing page designed to help my dad improve the sales of his Smartphone Maintenance course. This project allowed me to combine my skills in UI/UX design and frontend development to create an engaging and informative website.
-
-To learn more about Life Cell, please visit the website: [Click Here!](https://www.lifecell.vercel.app)
 
 ## How to Reach Me 📫
 
