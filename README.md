@@ -1,53 +1,62 @@
-# Welcome to My GitHub Profile! 👋
-
 <p align="center">
   <img src="./banner2.png" alt="Banner">
 </p>
 
-## Hello, I'm Guilherme Galeno! ✨
+# GALENOMOON DEV | GUILHERME GALENO 🚀
 
-Welcome to my GitHub profile! I'm a Full-Stack Developer, Team Leader, and UI/UX enthusiast with a passion for creating captivating web and mobile applications that deliver exceptional user experiences.
+**[LinkedIn](https://www.linkedin.com/in/guilherme-galeno-sena)** | **[Portfolio](https://www.galenomoon.com)** | **[Email](mailto:galeno.dev@gmail.com)** | **[Figma Community](https://www.figma.com/@galenomoon)**
 
-## About Me 🙋‍♂️
+## About Me
 
-I'm Guilherme Galeno, a self-taught developer specializing in Full-Stack web development. With an artistic vision and love for creativity, I bring unique and visually appealing designs to life.
+Hey, I'm Guilherme Galeno! 👋 I'm a Dev passionate about turning ideas into colorful and functional code. If you need someone to bring your projects to life, I'm here to help! 💻✨
 
-## Skills and Expertise 🚀
+## My Skills
 
-- 💻 Full-Stack Developer
-- 🎯 Team Leader
-- 🌍 Languages: Portuguese and English
+### Frontend
 
-## Artistic Vision 🎨✨🎵
+- **Frameworks:** React | React Native | Next.js
+- **Languages:** JavaScript | TypeScript
+- **State Management:** Redux
+- **UI/UX:** Design and Development
 
-As a creative individual, I excel in web development and various art forms. I've written songs, worked as a designer, and developed logos and UI/UX designs using Figma. This artistic background allows me to create visually stunning and engaging user interfaces.
+### Backend
 
-Let's collaborate and create something extraordinary together! 🚀
+- **Frameworks:** Node.js | Express | Ruby on Rails | C#
+- **Database:** Redis
 
-## Coding Languages and Frameworks
+### DevOps & Testing
 
-- ⚛️ React.js, React Native, Next.js
-- 🐍 Python
-- 💎 Ruby
+- **DevOps:** Docker
+- **Testing:** Jest
 
-## Frameworks and Libraries
+### Cloud Platforms & APIs
 
-- 💻 ReactDOM, Tailwind CSS, Styled Components, Bootstrap
-- 📱 React Native
-- 🚂 Rails
+- **Cloud Platforms:** Heroku | AWS | Vercel
+- **APIs:** Google API
 
-### Web Portfolio
+### Design & CSS
 
-Welcome to my web portfolio! Explore my range of projects showcasing my skills as a web developer specializing in Next.js and Tailwind CSS.
+- **Design Tools:** Figma
+- **CSS Frameworks:** TailwindCSS | Bootstrap
+- **Animation Libraries:** Framer Motion
 
-Visit my portfolio: [Click Here!](https://www.galenomoon.com)
+## Education 🎓
 
-## How to Reach Me 📫
+- **Bachelor's in Information Systems | [Estácio University](#)**
+- **Bachelor's in Software Engineering | [Anhanguera University](#)**
+- **Technical Course in Systems Development | [Etec Drª Ruth Cardoso](#)**
 
-If you have any questions, collaboration opportunities, or just want to connect, feel free to reach out to me through the following channels:
+## Let's Connect! 🌐
 
-- 📧 Email: galeno.dev@gmail.com
-- 💼 LinkedIn: [Guilherme Galeno Sena](https://www.linkedin.com/in/guilherme-galeno-sena)
-- 🌐 Website: [Check my Portfolio!](https://www.galenomoon.com)
+If you're looking for someone to create something amazing together or just chat about technology, I'm always available! 😄 Let's connect:
 
-I am always excited to connect with fellow developers and designers, so don't hesitate to get in touch!
+- **[LinkedIn](https://www.linkedin.com/in/guilherme-galeno-sena)**
+- **[Portfolio](https://www.galenomoon.com)**
+- **[Email](mailto:galeno.dev@gmail.com)**
+- **[Figma Community](https://www.figma.com/@galenomoon)**
+
+Can't wait to create something amazing with you! 🚀✨
+
+<p align="start">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHE4bm80cmljbWYweHFscnNxamZwczhmdnY5ZThvanN4d2t4bjlqciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" alt="Dev GIF" style="margin-right: 10px;">
+</p>
